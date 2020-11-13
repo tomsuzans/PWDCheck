@@ -1,0 +1,19 @@
+C:\Users\Administrator\source\repos\PWDCheck\bin\Debug\PWDCheck.exe.config
+C:\Users\Administrator\source\repos\PWDCheck\bin\Debug\PWDCheck.exe
+C:\Users\Administrator\source\repos\PWDCheck\bin\Debug\PWDCheck.pdb
+C:\Users\Administrator\source\repos\PWDCheck\obj\Debug\PWDCheck.PWDCheck.resources
+C:\Users\Administrator\source\repos\PWDCheck\obj\Debug\PWDCheck.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PWDCheck\obj\Debug\PWDCheck.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PWDCheck\obj\Debug\PWDCheck.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PWDCheck\obj\Debug\PWDCheck.exe
+C:\Users\Administrator\source\repos\PWDCheck\obj\Debug\PWDCheck.pdb
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\bin\Debug\PWDCheck.exe.config
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\bin\Debug\PWDCheck.exe
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\bin\Debug\PWDCheck.pdb
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\obj\Debug\PWDCheck.csprojAssemblyReference.cache
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\obj\Debug\PWDCheck.PWDCheck.resources
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\obj\Debug\PWDCheck.Properties.Resources.resources
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\obj\Debug\PWDCheck.csproj.GenerateResource.cache
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\obj\Debug\PWDCheck.csproj.CoreCompileInputs.cache
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\obj\Debug\PWDCheck.exe
+C:\Users\JanisBerzins\Google Drive\ViA\Prog 2\mani darbi\PWDCheck\obj\Debug\PWDCheck.pdb
